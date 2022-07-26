@@ -9,3 +9,9 @@
 조작방법
 Project1 -> README.pdf
 : README.pdf 파일에 조작방법 설명
+
+사양
+.exe 파일로 빌드 했으며 Window 환경에서 플레이 할 수 있습니다.
+
+실행파일 경로 
+Project1 -> ShooterPrototype.exe
